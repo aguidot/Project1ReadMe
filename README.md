@@ -53,6 +53,8 @@ Comparison of specific vehicle type by region based on specific odometer range, 
 ## Usage
 
 *This section should include screenshots, code blocks, or animations explaining how to use your project.*
+How our QGIS looked after plotting all 80,000+ data points using the given latitudes and longitudes of the cleaned CSV data.
+![qgis_plotted_map](https://user-images.githubusercontent.com/85652410/129507759-f15cfcbe-685b-4392-81e8-6640694f510b.jpg)
 
 ---
 
