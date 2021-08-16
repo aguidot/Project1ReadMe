@@ -12,8 +12,6 @@
 
 ## Technologies
 
-*Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.*
-
 The programming language for this project is Python. This project was run in VSCode with Jupyter Notebook extension. Additionally, we used QGIS 3.16.9 to plot out over 80,000 data points on a map of the United States. 
 
 The link to download QGIS 3.16.9 can be found here:
@@ -44,15 +42,11 @@ pip install simulation
 
 ## Examples
 
-*This section should include screenshots, code blocks, or animations showing how your project works.*
-
 What the cleaned CSV data showed look like when imported into the Jupyter Notebook.
 (![vehicles_used_pd head()](https://user-images.githubusercontent.com/85652410/129505432-0266a389-c358-4e9a-9e50-5a0c778a24da.png)
 
 Comparison of specific vehicle type by region based on specific odometer range, vehicle condition, & manufacturer.
 (![vehicle_comparison_ex](https://user-images.githubusercontent.com/85652410/129506008-1d3c1331-fe17-4c6b-af9b-9c8c2f76f355.png)
-
-
 
 ---
 
