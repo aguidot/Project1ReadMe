@@ -1,13 +1,13 @@
 # Project 1 Read Me
 
-*You are a Fintech Bootcamp student tasked with a group project on showcasing the skills you've learned thus far in class. Below is what your readme file might look like for your project.*
+*You are a Rice Fintech Bootcamp student tasked with a group project on showcasing the skills you've learned thus far in class. Below is what your readme file might look like for your first project.*
 
 # Group 2 - Street Smarts: Beating the Used Car Salesman
 ![used_car_salesman](https://user-images.githubusercontent.com/85652410/129506201-ce92dedd-5ae0-4e39-8f15-cc552311e47c.jpg)
 
 
 ####
-#### The used car market is currently experiencing an all time high with prices rising by 45% during the last 12 months. This activity in the market corresponds to threats of rising inflation and potential increase in interest rates alongside news of ongoing supply shortages in automotive electronics. Our project focused on analyzing used car sales data to navigate the best buying and selling opportunities in the current market. We examined current geographical trends across vehicle type, specifications, mileage, and units sold as well as compare changes in the economic landscape.
+#### The used car market is currently experiencing an all time high with prices rising by 45% during the last 12 months. This activity in the market corresponds to threats of rising inflation and potential increase in interest rates, alongside news of ongoing supply shortages in automotive electronics. Our project focuses on analyzing used car sales data to navigate the best buying and selling opportunities in the current market. We examine current geographical trends across vehicle type, specifications, mileage, and units sold as well as compare changes in the economic landscape.
 ---
 
 ## Technologies
