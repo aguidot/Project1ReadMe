@@ -54,9 +54,12 @@ Comparison of specific vehicle type by region based on specific odometer range, 
 
 ## Usage
 
-*This section should include screenshots, code blocks, or animations explaining how to use your project.*
 How our QGIS looked after plotting all 80,000+ data points using the given latitudes and longitudes of the cleaned CSV data.
 ![qgis_plotted_map](https://user-images.githubusercontent.com/85652410/129507759-f15cfcbe-685b-4392-81e8-6640694f510b.jpg)
+
+Vehicles for sale by region and condition between 75,000 to 100,000 miles. The regions are Houston and San Diego for the scope of this project.
+![vehicle_region_condition](https://user-images.githubusercontent.com/85652410/129511777-b3133fea-4831-4f3e-a8a2-f996aa693cf8.png)
+
 
 ---
 
