@@ -1,12 +1,12 @@
 # Project 1 Read Me
 
-You are a Fintech Bootcamp student tasked with a group project on showcasing the skills you've learned thus far in class. Below is what your readme file might look like for your project.
+*You are a Fintech Bootcamp student tasked with a group project on showcasing the skills you've learned thus far in class. Below is what your readme file might look like for your project.*
 
 # Group 2 - Street Smarts: Beating the Used Car Salesman
 
 *Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.*
 
-The used car market is currently experiencing an all time high with prices rising by 45% during the last 12 months. This activity in the market corresponds to threats of rising inflation and potential increase in interest rates alongside news of ongoing supply shortages in automotive electronics.Our project will focus on analyzing used car sales data to navigate the best buying and selling opportunities in the current market. We will examine current geographical trends across vehicle type, specifications, mileage, and units sold as well as compare changes in the economic landscape.
+### The used car market is currently experiencing an all time high with prices rising by 45% during the last 12 months. This activity in the market corresponds to threats of rising inflation and potential increase in interest rates alongside news of ongoing supply shortages in automotive electronics.Our project will focus on analyzing used car sales data to navigate the best buying and selling opportunities in the current market. We will examine current geographical trends across vehicle type, specifications, mileage, and units sold as well as compare changes in the economic landscape.
 ---
 
 ## Technologies
@@ -15,10 +15,10 @@ The used car market is currently experiencing an all time high with prices risin
 
 The programming language for this project is Python. This project was run in VSCode with Jupyter Notebook extension. Additionally, we used QGIS 3.16.9 to plot out over 80,000 data points on a map of the United States. 
 
-The link to download QGIS 3.16.9 can be found below:
+The link to download QGIS 3.16.9 can be found here:
 https://qgis.org/en/site/forusers/download.html
 
-Additionally resources to work with QGIS 3.16.9 can be found below:
+Additionally resources to work with QGIS 3.16.9 can be found here:
 https://www.qgis.org/en/site/about/index.html
 
 ---
