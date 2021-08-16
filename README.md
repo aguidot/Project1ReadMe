@@ -45,10 +45,10 @@ pip install simulation
 *This section should include screenshots, code blocks, or animations showing how your project works.*
 
 What the cleaned CSV data showed look like when imported into the Jupyter Notebook.
-![]()![code question 1](![vehicles_used_pd head()](https://user-images.githubusercontent.com/85652410/129505432-0266a389-c358-4e9a-9e50-5a0c778a24da.png)
+![](![vehicles_used_pd head()](https://user-images.githubusercontent.com/85652410/129505432-0266a389-c358-4e9a-9e50-5a0c778a24da.png)
 
 Comparison of specific vehicle type by region based on specific odometer range, vehicle condition, & manufacturer.
-![]()![code question 1](![vehicle_comparison_ex](https://user-images.githubusercontent.com/85652410/129506008-1d3c1331-fe17-4c6b-af9b-9c8c2f76f355.png)
+![](![vehicle_comparison_ex](https://user-images.githubusercontent.com/85652410/129506008-1d3c1331-fe17-4c6b-af9b-9c8c2f76f355.png)
 
 
 
