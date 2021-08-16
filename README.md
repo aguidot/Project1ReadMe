@@ -8,6 +8,8 @@
 
 ####
 #### The used car market is currently experiencing an all time high with prices rising by 45% during the last 12 months. This activity in the market corresponds to threats of rising inflation and potential increase in interest rates, alongside news of ongoing supply shortages in automotive electronics. Our project focuses on analyzing used car sales data to navigate the best buying and selling opportunities in the current market. We examine current geographical trends across vehicle type, specifications, mileage, and units sold as well as compare changes in the economic landscape.
+
+Our business case is aiming to establish a best deal service to support car evaluations and discover regional hotspots best overall sellers. The opportunities with our project can lead to facilitating existing markets, possible market dominance, and advertisements with dealership/individual shopping tools.
 ---
 
 ## Technologies
