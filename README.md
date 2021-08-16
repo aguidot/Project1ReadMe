@@ -17,7 +17,7 @@ The programming language for this project is Python. This project was run in VSC
 The link to download QGIS 3.16.9 can be found here:
 https://qgis.org/en/site/forusers/download.html
 
-Additionally resources to work with QGIS 3.16.9 can be found here:
+Additional resources to work with QGIS 3.16.9 can be found here, including how to add in your own CSV files to points on a map:
 https://www.qgis.org/en/site/about/index.html
 
 ---
